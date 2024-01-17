@@ -1,25 +1,55 @@
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\repository\ProductoRepository.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\service\RolService.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\entity\Rol.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\entity\UsuarioPrincipal.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\jwt\JwtTokenFilter.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\repository\RolRepository.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\CrudApplication.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\service\UserDetailsServiceImpl.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\dto\NuevoUsuario.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\jwt\JwtEntryPoint.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\repository\UsuarioRepository.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\util\CreateRoles.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\service\ProductoService.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\dto\Mensaje.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\MainSecurity.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\jwt\JwtProvider.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\controller\AuthController.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\service\UsuarioService.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\dto\JwtDto.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\entity\Usuario.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\enums\RolNombre.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\controller\ProductoController.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\entity\Producto.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\dto\LoginUsuario.java
-C:\Users\cliente1\Desktop\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\dto\ProductoDto.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\controller\SkillController.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\entity\UsuarioPrincipal.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\service\UsuarioService.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\dto\ExperienciaDto.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\impl\ProyectoRepositoryImpl.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\impl\SkillRepositoryImpl.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\enums\RolNombre.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\SkillRepository.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\SearchRepository.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\entity\Proyecto.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\MainSecurity.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\dto\PortafolioDto.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\repository\RolRepository.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\CrudApplication.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\ExperienciaRepository.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\service\RolService.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\jwt\JwtTokenFilter.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\util\CreateRoles.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\jwt\JwtEntryPoint.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\dto\EducacionDto.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\impl\AcercaDeRepositoryImpl.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\dto\ProyectoDto.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\impl\ExperienciaRepositoryImpl.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\entity\AcercaDe.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\controller\ProyectoController.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\entity\Skill.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\service\ExperienciaService.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\service\SearchService.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\dto\AcercaDeDto.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\ProyectoRepository.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\service\ProyectoService.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\controller\PortafolioController.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\entity\Rol.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\jwt\JwtProvider.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\controller\SearchController.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\entity\Educacion.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\service\AcercaDeService.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\entity\Experiencia.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\controller\ExperienciaController.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\dto\SkillDto.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\entity\Usuario.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\service\SkillService.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\dto\LoginUsuario.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\controller\AuthController.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\impl\EducacionRepositoryImpl.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\service\UserDetailsServiceImpl.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\controller\AcercaDeController.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\dto\Mensaje.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\repository\UsuarioRepository.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\service\EducacionService.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\controller\EducacionController.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\AcercaDeRepository.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\dto\NuevoUsuario.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\repository\EducacionRepository.java
+C:\Users\Gabil\Downloads\LAPTOP\14) MIS PROYECTOS\2024\2_cv_app\API-PROYECTO-FINAL-USOLOCAL-MULTIUSUARIO\src\main\java\com\ProyectoFinalArgProg\crud\security\dto\JwtDto.java
