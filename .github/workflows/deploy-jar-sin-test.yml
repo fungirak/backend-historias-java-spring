@@ -1,0 +1,30 @@
+name: deploy-jar-sin-test
+
+on:
+  push:
+    branches:
+      - master  # ajusta a tu rama principal
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        skip-tests: [false]
+
+    steps:
+    - name: Checkout del Código
+      uses: actions/checkout@v2
+
+    - name: Configurar JDK
+      uses: actions/setup-java@v2
+      with:
+        distribution: 'adopt'
+        java-version: '11'
+
+    - name: Construir y Empaquetar
+      run: mvn clean package -DskipTests=${{ matrix.skip-tests }}
+
+    # Agregar pasos adicionales según sea necesario
+
