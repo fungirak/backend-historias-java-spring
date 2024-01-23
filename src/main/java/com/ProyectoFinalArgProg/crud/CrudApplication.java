@@ -5,7 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
 @SpringBootApplication
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://deploy-next-portafolio-app.vercel.app", 
+             methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE}, 
+             allowedHeaders = "*")
 public class CrudApplication {
 
 	public static void main(String[] args) {
